@@ -1,17 +1,8 @@
 import streamlit as st
-
-try:
-    import matplotlib
-    st.write("Matplotlib version:", matplotlib.__version__)
-    import matplotlib.pyplot as plt
-    st.write("Pyplot imported successfully")
-except Exception as e:
-    st.error(f"{type(e).__name__}: {e}")
-    st.stop()
-
 import pandas as pd
 import numpy as np
 import pickle
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.set_page_config(page_title="Student Score Analysis & Prediction", layout="wide")
