@@ -105,7 +105,7 @@ EduScore-Analytics/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/EduScore-Analytics.git
+git clone https://github.com/lakshya0858/EduScore-Analytics.git
 ```
 
 ### Navigate to Project Folder
@@ -125,8 +125,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+### live link of project
 
----
+```bash
+https://eduscore-analytics-lakshya0858.streamlit.app/
+```
 
 ## 📸 Project Preview
 
@@ -151,7 +154,7 @@ streamlit run app.py
 B.Tech Student🎓
 
 Computer Science & Engineering
-Specialization in Artificial Intelligence(AI)👨‍💻
+ with Specialization in Artificial Intelligence(AI)👨‍💻
 
 ---
 
